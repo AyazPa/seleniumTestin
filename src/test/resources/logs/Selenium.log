@@ -1,0 +1,18 @@
+07:18:15,508 DEBUG devpinoyLogger:47 - Config file loaded !!
+07:18:15,511 DEBUG devpinoyLogger:61 - Config file loaded !!
+07:18:18,869 DEBUG devpinoyLogger:77 - Chrome Browser Launched ! 
+07:18:19,981 DEBUG devpinoyLogger:88 - Navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+07:18:21,227 DEBUG devpinoyLogger:19 - Running Add coustmer Data Testcase
+07:18:21,287 DEBUG devpinoyLogger:21 - Clicked on Add Coustmer Button
+07:18:21,446 DEBUG devpinoyLogger:23 - Enterred First name
+07:18:21,518 DEBUG devpinoyLogger:25 - Enterred Last name
+07:18:21,612 DEBUG devpinoyLogger:27 - Enterred Post code
+07:18:21,688 DEBUG devpinoyLogger:29 - Clicked on Add Coustmer Button
+07:18:21,699 DEBUG devpinoyLogger:35 - Coustmer added Succesfully
+07:18:21,702 DEBUG devpinoyLogger:19 - Running Add coustmer Data Testcase
+07:18:21,749 DEBUG devpinoyLogger:21 - Clicked on Add Coustmer Button
+07:18:21,819 DEBUG devpinoyLogger:23 - Enterred First name
+07:18:21,879 DEBUG devpinoyLogger:25 - Enterred Last name
+07:18:22,151 DEBUG devpinoyLogger:27 - Enterred Post code
+07:18:22,234 DEBUG devpinoyLogger:29 - Clicked on Add Coustmer Button
+07:18:22,238 DEBUG devpinoyLogger:35 - Coustmer added Succesfully
